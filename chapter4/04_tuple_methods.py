@@ -1,0 +1,10 @@
+a = (1,45,"Alpesh","Shubham",45.67,345)
+print(a)
+no = a.count(45)
+print(no)
+i = a.index(45)
+print(i)
+print(len(a))
+print(a[0])    
+print(a[1:4]) #Slicing
+print(a[0:3])
